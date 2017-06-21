@@ -2,6 +2,8 @@
 
 By using any Prendus services, you agree to the following terms and the [Privacy Policy]():
 
+* ???Anything you upload to the site becomes our property
+* You must obey all copyright laws (e.g. questions that you create must not violate another's copyright)
 * You must by 13 years or older to use the services
 * You must not violate [this acceptable use policy](https://github.com/graphcool/content/blob/master/static/legal/terms.md#acceptable-use-policy)
 * We may suspend or terminate your account for any reason
