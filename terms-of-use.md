@@ -1,13 +1,17 @@
 # Terms of Use
 
-By using any Prendus services, you agree to these [Terms of Use]() and the [Privacy Policy]().
+By using any Prendus services, you agree to the following terms and the [Privacy Policy]():
 
 * You must by 13 years or older to use the services
-* Explain payment information
-* Export control laws?
-* Graph.cool acceptable use policy
-* You may cancel this agreement by deleting your account
-* We will use your email address to send you important information
+* You must not violate [this acceptable use policy](https://github.com/graphcool/content/blob/master/static/legal/terms.md#acceptable-use-policy)
+* We may suspend or terminate your account for any reason
+* You may delete your account and cancel your acceptance of this agreement by sending us an email: `contact@prendus.com`
+* We will strive to be useful to you, but the services are provided under conditions similar to those found in the [The MIT License](https://opensource.org/licenses/MIT): THE SERVICES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## TODO
+
+- [ ] Explain payment terms
+- [ ] 
 
 We need this license from users: 
 
