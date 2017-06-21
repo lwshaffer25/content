@@ -4,7 +4,7 @@ By using any Prendus services, you agree to the following terms and the [Privacy
 
 * All content that you upload through the services is automatically licensed under [The Prendus License]()
 * You must obey all copyright laws
-* You must by 13 years or older to use the services
+* You must be 13 years or older to use the services
 * You must not violate [this acceptable use policy](https://github.com/graphcool/content/blob/master/static/legal/terms.md#acceptable-use-policy)
 * We may suspend or terminate your account for any reason
 * You may delete your account and cancel your acceptance of this agreement by sending us an email: `jordan.michael.last@gmail.com`
