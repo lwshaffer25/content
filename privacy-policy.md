@@ -2,12 +2,19 @@
 
 ## Information we collect
 
-The following potentially personally identifiable information is available to the Prendus services and applications and to [Graphcool](https://www.graph.cool/).
+The following potentially personally identifiable information may be available to the Prendus services and applications and to [Graphcool](https://www.graph.cool/).
 
 * Email address
 * Password
-* LTI credentials
-  * 
+* [LTI credentials](https://www.imsglobal.org/specs/ltiv1p1p1/implementation-guide#toc-3)
+  * user_id
+  * user_image
+  * lis_person_name_given
+  * lis_person_name_family
+  * lis_person_name_full
+  * lis_person_contact_email_primary
+  * role_scope_mentor
+  * oauth_consumer_key
 * Any personally identifiable information contained in content that you upload
 
 ## How we use the information
