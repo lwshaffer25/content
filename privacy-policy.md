@@ -2,13 +2,13 @@
 
 ## Information we collect
 
-The following information is available to the Prendus services and applications and to [Graphcool](https://www.graph.cool/).
+The following potentially personally identifiable information is available to the Prendus services and applications and to [Graphcool](https://www.graph.cool/).
 
 * Email address
 * Password
 * LTI credentials
   * 
-* Any information contained in content that you upload
+* Any personally identifiable information contained in content that you upload
 
 ## How we use the information
 
@@ -18,6 +18,8 @@ We may access and use information collected to do any of the following:
 * Run analyses to improve the Prendus services and further education research
 * Ensure the Prendus services function correctly
 * Develop and improve the Prendus services
+
+Note that any personally identifiable information contained in content (e.g. questions) that you create is governed by [The Prendus License](https://github.com/Prendus/content/blob/master/the-prendus-license.md), and will not have the same protections as other personally identifiable information. For this reason you should consider avoiding inserting any personally identifiable information in content that you create on the Prendus services.
 
 ## How we protect the information
 
