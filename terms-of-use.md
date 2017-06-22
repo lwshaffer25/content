@@ -2,7 +2,7 @@
 
 By using any Prendus services, you agree to the following terms and the [Privacy Policy](https://github.com/Prendus/content/blob/master/privacy-policy.md):
 
-* All content that you upload through the services is automatically licensed under [The Prendus License]()
+* All content that you upload through the services is automatically licensed under [The Prendus License](https://github.com/Prendus/content/blob/master/the-prendus-license.md)
 * You must obey all copyright laws
 * You must be 13 years or older to use the services
 * You must not violate [this acceptable use policy](https://github.com/graphcool/content/blob/master/static/legal/terms.md#acceptable-use-policy)
