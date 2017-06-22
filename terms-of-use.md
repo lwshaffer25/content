@@ -18,6 +18,7 @@ By using any Prendus services, you agree to the following terms and the [Privacy
 - [ ] Make better email addresses
 - [ ] DMCA safe harbor compliance
 - [ ] Jurisdiction (what laws do we agree to be governed by)
+- [ ] Potentially explain copyright responsibilities in more detail, with resources
 
 We need this license from users: 
 
