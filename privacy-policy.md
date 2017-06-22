@@ -16,7 +16,7 @@ The following information is available to the Prendus services and applications 
 
 We strive to store and transmit all personally identifiable information securely using a variety of means:
 
-* Much of the content is stored with `graph.cool`. 
+* Much of the content is stored with [Graphcool](https://www.graph.cool/). You can view their [privacy policy](https://github.com/graphcool/content/blob/master/static/legal/terms.md#privacy-policy) and see their [security practices](https://github.com/graphcool/content/blob/master/static/legal/terms.md#security) for more information
 
 ## How can you control your data
 
