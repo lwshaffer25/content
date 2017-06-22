@@ -15,6 +15,7 @@ The following potentially personally identifiable information may be available t
   * lis_person_contact_email_primary
   * role_scope_mentor
   * oauth_consumer_key
+* Your interactions with the services, such as which URLs you visit, which quizzes, questions, and other content that you use, and all click-level interactions with the services
 * Any personally identifiable information contained in content that you upload
 
 ## How we use the information
@@ -25,6 +26,7 @@ We may access and use information collected to do any of the following:
 * Run analyses to improve the Prendus services and further education research
 * Ensure the Prendus services function correctly
 * Develop and improve the Prendus services
+* Provide you with analytics based on your interactions with the services
 
 Note that any personally identifiable information contained in content (e.g. questions) that you create is governed by [The Prendus License](https://github.com/Prendus/content/blob/master/the-prendus-license.md), and will not have the same protections as other personally identifiable information. For this reason you should consider avoiding inserting any personally identifiable information in content that you create on the Prendus services.
 
