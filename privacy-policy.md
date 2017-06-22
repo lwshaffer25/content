@@ -28,7 +28,7 @@ We strive to store and transmit all personally identifiable information securely
 * Much of the content is stored with [Graphcool](https://www.graph.cool/). You can view their [privacy policy](https://github.com/graphcool/content/blob/master/static/legal/terms.md#privacy-policy) and see their [security practices](https://github.com/graphcool/content/blob/master/static/legal/terms.md#security) for more information
 * We secure admin access to our servers using public-key cryptography
 * We use HTTPS to encrypt network communications wherever feasible
-* We impose strict personnel access control to sensitive data on a need-to-access basis
+* We impose strict access control to sensitive data on a need-to-access basis
 
 ## How can you control your data
 
