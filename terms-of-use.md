@@ -19,7 +19,3 @@ By using any Prendus services, you agree to the following terms and the [Privacy
 - [ ] DMCA safe harbor compliance
 - [ ] Jurisdiction (what laws do we agree to be governed by)
 - [ ] Potentially explain copyright responsibilities in more detail, with resources
-
-We need this license from users: 
-
-8.1 Graphcool claims no ownership or control over any Content or Application. You retain copyright and any other rights you already hold in the Content and/or Application, and you are responsible for protecting those rights, as appropriate. By submitting, posting or displaying the Content on or through the Graphcool Services you give Graphcool a worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute such Content for the sole purpose of enabling Graphcool to provide you with the Graphcool Services. Furthermore, by creating an Application through use of the Graphcool Services, you give Graphcool a worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute such Application for the sole purpose of enabling Graphcool to provide you with the Graphcool Services.
