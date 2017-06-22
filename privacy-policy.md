@@ -2,7 +2,7 @@
 
 ## Information we collect
 
-The following potentially personally identifiable information may be available to the Prendus services and applications and to [Graphcool](https://www.graph.cool/).
+The following potentially personally identifiable information may be available to the Prendus services and applications and to [Graphcool](https://www.graph.cool/):
 
 * Email address
 * Password
